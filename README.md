@@ -9,6 +9,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yas1n09" alt="yas1n09" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/yas1n09" target="blank"><img src="https://img.shields.io/twitter/follow/yas1n09?logo=twitter&style=for-the-badge" alt="yas1n09" /></a> </p>
+
+- 🔭 I’m currently working on **.Net CORE**
+
+- 🌱 I’m currently learning **.Net CORE Design Patterns**
+
+- 📫 How to reach me **yasinyagci0990@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yas1n09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yas1n09" height="30" width="40" /></a>
@@ -23,6 +31,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yas1n09&show_icons=true&locale=en&layout=compact" alt="yas1n09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yas1n09&show_icons=true&locale=en" alt="yas1n09" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yas1n09&" alt="yas1n09" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yas1n09&" alt="yas1n09" /></p>
 
