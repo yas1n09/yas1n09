@@ -1,4 +1,4 @@
-![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
+
 
 
 
@@ -35,4 +35,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yas1n09&" alt="yas1n09" /></p>
 
 
-![snake gif](https://github.com/yas1n09/yas1n09/blob/output/github-contribution-grid-snake.gif)
