@@ -34,3 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yas1n09&" alt="yas1n09" /></p>
 
+
+![snake gif](https://github.com/yas1n09/yas1n09/blob/output/github-contribution-grid-snake.gif)
