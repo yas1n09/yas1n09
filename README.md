@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **.Net CORE**
 
-- 🌱 I’m currently learning **.Net CORE Design Patterns**
+- 🌱 I’m currently learning ** Embeded Systems - Ti. F28379d Launchpad**
 
 - 📫 How to reach me **yasinyagci0990@gmail.com**
 
