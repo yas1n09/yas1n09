@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **.Net CORE**
 
-- 🌱 I’m currently learning ** Embeded Systems - Ti. F28379d Launchpad**
+- 🌱 I’m currently learning ** BigBlueButton 3.0**
 
 - 📫 How to reach me **yasinyagci0990@gmail.com**
 
